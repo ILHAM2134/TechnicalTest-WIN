@@ -1,0 +1,12 @@
+{
+  "name": "winshop",
+  "version": "1.0.0",
+  "description": "web-based marketplace app using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && mpn i && cd ../frontend && npm i && npm run build",
+    "start": "node backend/server.js"
+  },
+  "author": "ilham",
+  "license": "ISC"
+}
