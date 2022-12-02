@@ -39,8 +39,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-amazona
+$ git clone https://github.com/ILHAM2134/TechnicalTest-WIN.git
+$ cd TechnicalTest-WIN
 ```
 
 ### 2. Create .env File
