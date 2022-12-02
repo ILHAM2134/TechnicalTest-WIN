@@ -52,6 +52,7 @@ $ cd TechnicalTest-WIN
 ```
 $ cd backend
 $ npm install
+$ npm audit fix --force
 $ npm start
 ```
 
@@ -61,6 +62,7 @@ $ npm start
 # open new terminal
 $ cd frontend
 $ npm install
+$ npm audit fix --force
 $ npm start
 ```
 
